@@ -1,1 +1,1 @@
-# Cohere_LLM_University
+# Cohere LLM University Practice
